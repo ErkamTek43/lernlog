@@ -8,4 +8,4 @@ Dieses Repository enthält nur die fertig gebauten Dateien. Der Quellcode wird s
 
 **Technik:** TypeScript, React, Vite, IndexedDB (Dexie)
 
-**Kontakt:** [@ErkamTek43](https://github.com/ErkamTek43)
+
